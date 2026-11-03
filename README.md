@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola¡✌️ Son Jonathan Vázquez
 
-<!--
-**jonathangiovannyvz-ai/jonathangiovannyvz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Informática en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la relación de problemas.
 
-Here are some ideas to get you started:
+-📖 Actualmente estoy aprendiendo: ##Python y Base de Datos##.
+-🪴Mis proximas objetivos: Aprender ##Desarrollo Wed (HTML/CSS/JS)##.
+-💭Pregúntame sobre: ##Soporte técnico, redes y macros de Exel##.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🛠️Habilidades Tecnicas
+-##Lenguajes: ##Python, Java, HTML.
+-##Herramientas:##Exel Avanzado, Latex, Git.
+-##Sistemas Opeativos: ##Windos, Linux (basico)
+
+##📬 Como contactarme
+- ##Correo: ## jonathangiovannyv.z@gmail.com
+- - ##LinkedIn: ## ( https://github.com/jonathangiovannyvz-ai )

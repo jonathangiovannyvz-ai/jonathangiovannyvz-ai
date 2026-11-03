@@ -1,6 +1,6 @@
 <h2 align="center">
  <abc>
-  <br> I'm Juan Perez, Frontend Web Developer :computer:<br>
+  <br> I'm Jonathan Vazquez, Frontend Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="center">
  </abc>
